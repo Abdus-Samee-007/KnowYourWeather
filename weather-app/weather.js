@@ -1,4 +1,5 @@
-                    // Javascript file for weather app
+                    // Javascript file for weather app //
+              // You can get an api key from openweathermap.org //
       const apikey = //api key here//;
       const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
